@@ -1,0 +1,11 @@
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/bin/Debug/net8.0/ForeverPetsHome.Domain.deps.json
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/bin/Debug/net8.0/ForeverPetsHome.Domain.dll
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/bin/Debug/net8.0/ForeverPetsHome.Domain.pdb
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/obj/Debug/net8.0/ForeverPetsHome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/obj/Debug/net8.0/ForeverPetsHome.Domain.AssemblyInfoInputs.cache
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/obj/Debug/net8.0/ForeverPetsHome.Domain.AssemblyInfo.cs
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/obj/Debug/net8.0/ForeverPetsHome.Domain.csproj.CoreCompileInputs.cache
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/obj/Debug/net8.0/ForeverPetsHome.Domain.dll
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/obj/Debug/net8.0/refint/ForeverPetsHome.Domain.dll
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/obj/Debug/net8.0/ForeverPetsHome.Domain.pdb
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Domain/obj/Debug/net8.0/ref/ForeverPetsHome.Domain.dll

@@ -1,0 +1,15 @@
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/bin/Debug/net8.0/ForeverPetsHome.Application.deps.json
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/bin/Debug/net8.0/ForeverPetsHome.Application.dll
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/bin/Debug/net8.0/ForeverPetsHome.Application.pdb
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/obj/Debug/net8.0/ForeverPetsHome.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/obj/Debug/net8.0/ForeverPetsHome.Application.AssemblyInfoInputs.cache
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/obj/Debug/net8.0/ForeverPetsHome.Application.AssemblyInfo.cs
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/obj/Debug/net8.0/ForeverPetsHome.Application.csproj.CoreCompileInputs.cache
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/obj/Debug/net8.0/ForeverPetsHome.Application.dll
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/obj/Debug/net8.0/refint/ForeverPetsHome.Application.dll
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/obj/Debug/net8.0/ForeverPetsHome.Application.pdb
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/obj/Debug/net8.0/ref/ForeverPetsHome.Application.dll
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/bin/Debug/net8.0/ForeverPetsHome.Domain.dll
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/bin/Debug/net8.0/ForeverPetsHome.Domain.pdb
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/obj/Debug/net8.0/ForeverPetsHome.Application.csproj.AssemblyReference.cache
+/Users/leonelortega/Documents/Workspace/Personal/NetProjects/ForeverPetsHome/ForeverPetsHome.Application/obj/Debug/net8.0/ForeverP.86CB1DD4.Up2Date

@@ -1,0 +1,6 @@
+@ForeverPetsHome.Api_HostAddress = http://localhost:5273
+
+GET {{ForeverPetsHome.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
